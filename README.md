@@ -45,15 +45,28 @@ Para executar esta aplicação em sua máquina local, o processo é simples:
 
 Este projeto está licenciado sob a Licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
-## :architect: Autor
 
-<a href="https://github.com/thiagops5">
- <img style="border-radius: 50%;" src="[LINK_PARA_SUA_FOTO_AQUI]" width="100px;" alt="Foto de Thiago Pacheco"/>
- <br />
- <sub><b>Thiago Pacheco</b></sub></a> <a href="[LINK_PARA_SEU_LINKEDIN]" title="LinkedIn"></a>
- <br />
+## :architect: Arquitetos da Obra
 
-Projetado e construído com paixão por clássicos da engenharia, por Thiago Pacheco.
+Este projeto foi idealizado, projetado e construído pela seguinte equipe de engenheiros:
 
-[![LinkedIn Badge](https://img.shields.io/badge/-Thiago_Pacheco-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seu-linkedin)](https://www.linkedin.com/in/seu-linkedin)
-[![GitHub Badge](https://img.shields.io/badge/-thiagops5-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/thiagops5)](https://github.com/thiagops5)
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://www.linkedin.com/in/thiago-pacheco-tech/">
+          <img src="[LINK_PARA_FOTO_DO_THIAGO]" width="100px;" alt="Foto de Thiago Pacheco dos Santos"/>
+          <br />
+          <sub><b>Thiago Pacheco dos Santos</b></sub>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://www.linkedin.com/in/glauter-junior-alberico-b0b902353/">
+          <img src="[LINK_PARA_FOTO_DO_GLAUTER]" width="100px;" alt="Foto de Glauter Junior Alberico"/>
+          <br />
+          <sub><b>Glauter Junior Alberico</b></sub>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
