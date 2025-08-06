@@ -55,14 +55,12 @@ Este projeto foi idealizado, projetado e construído pela seguinte equipe de eng
     <tr>
       <td align="center">
         <a href="https://www.linkedin.com/in/thiago-pacheco-tech/">
-          <img src="[LINK_PARA_FOTO_DO_THIAGO]" width="100px;" alt="Foto de Thiago Pacheco dos Santos"/>
           <br />
           <sub><b>Thiago Pacheco dos Santos</b></sub>
         </a>
       </td>
       <td align="center">
         <a href="https://www.linkedin.com/in/glauter-junior-alberico-b0b902353/">
-          <img src="[LINK_PARA_FOTO_DO_GLAUTER]" width="100px;" alt="Foto de Glauter Junior Alberico"/>
           <br />
           <sub><b>Glauter Junior Alberico</b></sub>
         </a>
